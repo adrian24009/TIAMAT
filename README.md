@@ -23,7 +23,7 @@ $$
 \frac{dD}{dt} = \alpha I 
 $$
 
-Nessas equações diferenciais acopladas, $\alpha$, $\beta$ e $\gamma$ representam as taxas de morte, transmissão de infecção e recuperados. Assim, o nosso trabalho tem como objetivo minimizar a função custo entre número de casos de pessoas infectadas ($I_{real}(t)$) e o número calculado pelo modelo SIRD ($$I_{calculado}(t)$$) a partir de um número ótimo da taxa de infecção ($$\beta$$). Para isso, utilizamos os dados do site [[Coronavírus Brasil](https://covid.saude.gov.br/)], onde encontramos o número de mortos, infectados e recuperados em 2020. A função de custo  $C(\beta)$ pode ser definida como abaixo:
+Nessas equações diferenciais acopladas, $\alpha$, $\beta$ e $\gamma$ representam as taxas de morte, transmissão de infecção e recuperados. Assim, o nosso trabalho tem como objetivo minimizar a função custo entre número de casos de pessoas infectadas ($$I_{real}(t)$$) e o número calculado pelo modelo SIRD ($$I_{calculado}(t)$$) a partir de um número ótimo da taxa de infecção ($$\beta$$). Para isso, utilizamos os dados do site [[Coronavírus Brasil](https://covid.saude.gov.br/)], onde encontramos o número de mortos, infectados e recuperados em 2020. A função de custo  $C(\beta)$ pode ser definida como abaixo:
 
 $$
 C(\beta) = \sum_{t=0}^{n}[I_{real}(t) - I_{calculado}(t)]^2
