@@ -1,5 +1,7 @@
 # TIAMAT
 
+Autores: Gabriel Viégas Ribeiro e Adrian Lincoln Paz
+
 Modelos epidemiológicos, cujo objetivo é capturar o comportamento de uma epidemia a partir
 de dados reais, mostraram ser de grande utilidade para a elaboração de estratégias de prevenção
 na saúde pública, em especial na pandemia de COVID-19. Um dos modelos separa a população em
