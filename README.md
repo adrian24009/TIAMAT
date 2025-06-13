@@ -35,4 +35,4 @@ Primeiramente, vamos apresentar o tratamento de dados e modelagem com o modelo S
 differential equations (SIRD) using the Runge-Kutta method in
 Ira](https://ijnaa.semnan.ac.ir/article_6509.html)]. Em seguida, vamos otimizar o valor de $\beta$ a partir do algoritmo genético. Por último, analisaremos se o valor de beta produziu resultados coerentes com o que foi observado na literatura. 
 
-O trabalho foi realizado em conjunto em todas as partes, ou seja, o trabalho foi igualmente distribuído entre os integrantes do grupo. 
+O trabalho foi realizado utilizando o material da disciplina de Redes Neurais e Algoritmos Genéticos, produzido em 2025 pelo professor Dr. Daniel R. Cassar. Além disso, o projeto foi feito em conjunto em todas as partes, ou seja, foi igualmente distribuído entre os integrantes do grupo. 
